@@ -1,0 +1,9 @@
+AWS.AMAZON.COM
+
+create your account
+Login
+Create vpc
+Create subnet(public or private)
+Create Route
+internet gateway
+Associate subnet
